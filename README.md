@@ -1,6 +1,6 @@
 # Insurance Charges Prediction - Deep Learning (Vol 2)
 
-An upgraded version of the insurance prediction project, built to practice Deep Learning and Neural Networks using TensorFlow/Keras. This project builds upon my previous baseline model [Insurance Charges AI (Scikit-Learn)](https://github.com/turki-ai/Insurance-Charges-Prediction) to compare performance.
+An upgraded version of the insurance prediction project, built to practice Deep Learning and Neural Networks using TensorFlow/Keras. This project builds upon my previous baseline model [Insurance Charges Prediction (Scikit-Learn)](https://github.com/turki-ai/Insurance-Charges-Prediction) to compare performance.
 
 ## Highlights
 - **Architecture:** Built a Deep Neural Network (DNN) using Keras Sequential API with Dense layers and ReLU activations.
